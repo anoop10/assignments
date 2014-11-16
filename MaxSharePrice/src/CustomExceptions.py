@@ -6,4 +6,9 @@ class BadInputException(Exception):
     pass
     
 class PriceDataAbsentException(Exception): pass
-    
+
+
+
+"""
+Trying to test merge
+"""
