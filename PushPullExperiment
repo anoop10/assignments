@@ -1,12 +1,14 @@
 noop@lptl-sanoop Branching20141201]$ rm -rf *
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 [sanoop@lptl-sanoop Branching20141201]$ 
 [sanoop@lptl-sanoop Branching20141201]$ git clone
 https://github.com/anoop10/assignments.git
-Cloning into 'assignments'...
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 remote: Counting objects: 34, done.
 remote: Compressing objects: 100% (22/22), done.
 remote: Total 34 (delta 10), reused 34 (delta 10)
 Unpacking objects: 100% (34/34), done.
-[sanoop@lptl-sanoop Branching20141201]$ 
 [sanoop@lptl-sanoop Branching20141201]$ 
 [sanoop@lptl-sanoop Branching20141201]$ ls
