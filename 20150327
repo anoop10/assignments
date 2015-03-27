@@ -19,6 +19,7 @@ for second commit  :
 line11
 line22
 line33
+<<<<<<< HEAD
 line44 from anoopiitr line-4
 line55 from anoopiitr line-5
 line66 from anoopiitr line-6
@@ -44,7 +45,7 @@ line66 from anoopiitr line-6
 from anoop singh iitr line-7
 from anoop singh iitr liiiiiiine-8
 from anoop singh iitr line-9
-=======
-line5
-line6
->>>>>>> commit-1  from anoop10
+line44
+line55
+line66
+>>>>>>> commit-2 from anoop10
