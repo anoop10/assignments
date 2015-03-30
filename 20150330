@@ -7,10 +7,16 @@ adding dummy content-3 to the file to be pulled by other user     from anoop10
 
 hey i am going to learn squashing now
 
+<<<<<<< HEAD
 rewriting into this file to test squashing --  commit-2 before squashing 
 
+=======
+>>>>>>> Merge commit-1    31-03-2015
 this is first commit before squashing
 
 rewriting into this file to test squashing --  commit-2 before squashing 
 Requirement-SquashingExperiment ( Squashed 3 commits into 1) is done  successfully
+<<<<<<< HEAD
 
+=======
+>>>>>>> Merge commit-1    31-03-2015
