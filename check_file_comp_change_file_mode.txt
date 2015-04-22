@@ -1,1 +1,3 @@
 this file has just one line to test how the change of mode reflects while creating the pull request
+
+adding one more line with changes in mode of file  
