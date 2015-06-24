@@ -1,0 +1,5 @@
+git config core.filemode false  
+
+ignores any changes to the file modes
+
+it takes care of handeling behavior of git diff as well (which depends on git diff basically)
